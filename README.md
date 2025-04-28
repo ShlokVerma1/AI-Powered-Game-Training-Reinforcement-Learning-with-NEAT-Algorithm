@@ -1,4 +1,4 @@
-# AI-Powered-Game-Training-Reinforcement-Learning-with-NEAT-Algorithm
+# AI-Powered-Game-Training-Reinforcement-Learning-with-NEAT-Algorithm.
 
 ## Project Overview
 
